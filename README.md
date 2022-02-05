@@ -5,6 +5,6 @@
 - Conducted topology optimization and Finite Element Analysis (FEA) in Solidworks and reduced part weight by 80%.
 - website: https://northwesternformularacing.com/
 ### Screenshots
-![no img](Screenshots/final_assembly.png "Final Assembly" | width=200)
-![no img](Screenshots/FEA_factor_of_safety.png "Factor of Safety" | width=200)
-![no img](Screenshots/FEA_stress.png "FEA Stress" | width=200)
+<img src="Screenshots/final_assembly.png" width="150">
+<img src="Screenshots/FEA_factor_of_safety.png" width="150">
+<img src="Screenshots/FEA_stress.png" width="150">
